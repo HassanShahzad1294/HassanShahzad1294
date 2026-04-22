@@ -109,8 +109,7 @@ Node.js, Express.js, MongoDB, Mongoose, JWT, Bcrypt
 git clone https://github.com/hassanhere246/MERN-Hotel_Management_System.git
 cd MERN-Hotel_Management_System
 
-              
-https://github.com/HassanShahzad1294/MERN-Hotel_Management_System
+🔗 https://github.com/HassanShahzad1294/MERN-Hotel_Management_System
 
 
 
@@ -136,7 +135,7 @@ A collection of simple Python projects built for learning.
 - 🧮 Calculator  
 - Basic Python practice programs
 
-🔗 GitHub: https://github.com/HassanShahzad1294/YOUR-PYTHON-REPO
+🔗 GitHub: https://github.com/HassanShahzad1294/python-project
 
 
 
