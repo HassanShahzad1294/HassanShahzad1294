@@ -7,3 +7,7 @@
 • 🚀 Looking for internship opportunities  
 • 💬 Ask me about React, JavaScript, Python  
 • ⚡ Passionate about learning and real-world development
+
+🌐 Socials:
+📷 Instagram: @hassanshahzad1294  
+📧 Email:  hassanhere246@gmail.com
